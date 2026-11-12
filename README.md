@@ -1,18 +1,5 @@
 
-This is the readme file for the R scripts of the paper “Unifiedly Efficient Inference on All-Dimensional Targets for Large-Scale GLMs” by Bo Fu, and Dandan Jiang. 
-Please make sure the packages needed for each R script are installed. 
-
-Install the following R packages:   "MASS", "nleqslv", "Matrix", "glmnet", "mvtnorm","mnormt", "boot", "SparseM", "quantreg","pqr","clime".
-Please make sure the packages needed for each R script are installed. 
-
-###Some steps for installing the package "pqr" in R 4.3.2
-###install Rtools 4.3 (http://cran.r-project.org/bin/windows/Rtools)
-###please make sure that the R tools 4.3 is installed in the same directory as the R 4.3.2 location
-###install.packages("devtools")
-###library(devtools)
-###install_github("xliusufe/pqr")
-###More details about the installation of the package "pqr" can be found at "https://github.com/xliusufe/pqr".
-
+This is the readme file for the R scripts of the paper “Minimax and Adaptive Transfer Learning for Sparse Canonical Correlation Analysis” by Bo Fu, and Dandan Jiang. 
 
 Explanation of files:
 
